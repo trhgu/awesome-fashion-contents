@@ -4,7 +4,7 @@ A cutated list of research papers related to fashion content
 
 suggested by APA style for journal
 
-## Jouranl
+## Journal
 
 ### image data base
 
@@ -19,7 +19,7 @@ Wang, W., Xu, Y., Shen, J., & Zhu, S. C. (2018). Attentive fashion grammar netwo
 
 ## cool source
 
-- Open Omages V4 dataset [link](https://storage.googleapis.com/openimages/web/index.html)
+- [Open Omages V4 dataset](https://storage.googleapis.com/openimages/web/index.html)
     - [How to prepare your own customized dataset using Open Images Dataset V4](https://medium.com/@c.n.veeraganesh/how-to-prepare-your-own-customized-dataset-using-open-images-dataset-v4-8dfce9b9e147)
     - Gabale & Subramanian(2018) applied this 
     
