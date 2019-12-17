@@ -8,9 +8,15 @@ suggested by APA style for journal
 
 ### image data base
 
+#### detection
+
 Gabale, V., & Subramanian, A. P. (2018). How To Extract Fashion Trends From Social Media? A Robust Object Detector With Support For Unsupervised Learning. arXiv preprint arXiv:1806.10787.[pdf](https://arxiv.org/pdf/1806.10787v1.pdf)
 
 Wang, W., Xu, Y., Shen, J., & Zhu, S. C. (2018). Attentive fashion grammar network for fashion landmark detection and clothing category classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 4271-4280).[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)
+
+#### latent space
+
+
 
 ### text data base
 
