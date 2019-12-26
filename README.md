@@ -32,3 +32,8 @@ Wang, W., Xu, Y., Shen, J., & Zhu, S. C. (2018). Attentive fashion grammar netwo
 - [Google API](https://cloud.google.com/vision/?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-bkws-all-all-trial-b-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_252357824052-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+BMM+%7C+ML+%7C+M:1+%7C+KR+%7C+en+%7C+Vision+%7C+API-KWID_43700029827974738-kwd-367731347431&userloc_1009871&utm_term=KW_%2Bgoogle%20%2Bimage%20%2Bapi&gclid=Cj0KCQiA89zvBRDoARIsAOIePbCIa1eUd98IbAiphARVslM5f9Tlw4jKEKDS6eNpkI6zsU9mrVb6fYQaAuTOEALw_wcB)
 
 - [fashin MNIST](https://github.com/zalandoresearch/fashion-mnist)
+
+- [YOLO](https://pjreddie.com/darknet/yolo/)
+    - [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/practice/2018/05/14/image-detection-deep-learning.html)
+- [COCO](http://cocodataset.org/#home)
+    - [Create your own COCO-style datasets](https://patrickwasp.com/create-your-own-coco-style-dataset/)
