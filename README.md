@@ -10,15 +10,17 @@ suggested by APA style for journal
 
 #### detection
 
-Gabale, V., & Subramanian, A. P. (2018). How To Extract Fashion Trends From Social Media? A Robust Object Detector With Support For Unsupervised Learning. arXiv preprint arXiv:1806.10787.[pdf](https://arxiv.org/pdf/1806.10787v1.pdf)
+- Gabale, V., & Subramanian, A. P. (2018). How To Extract Fashion Trends From Social Media? A Robust Object Detector With Support For Unsupervised Learning. arXiv preprint arXiv:1806.10787.[pdf](https://arxiv.org/pdf/1806.10787v1.pdf)
 
-Wang, W., Xu, Y., Shen, J., & Zhu, S. C. (2018). Attentive fashion grammar network for fashion landmark detection and clothing category classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 4271-4280).[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)
+- Wang, W., Xu, Y., Shen, J., & Zhu, S. C. (2018). Attentive fashion grammar network for fashion landmark detection and clothing category classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 4271-4280).[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)
 
 #### latent space
 
-
+- Lee, H., Seol, J., & Lee, S. G. (2017). Style2vec: Representation learning for fashion items from style sets. arXiv preprint arXiv:1708.04014. [pdf](https://arxiv.org/pdf/1708.04014.pdf)
 
 ### text data base
+
+- [written in Korean]Lee, Y. J., Seo, J. H., & Choi, J. T. (2014). Fashion trend marketing prediction analysis based on opinion mining applying SNS text contents. Journal of KIIT, 12(12), 163-170.
 
 
 ### survey data base
