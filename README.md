@@ -1,10 +1,8 @@
 # awesome-fashion-contents
 
-A cutated list of research papers related to fashion content
+A curated list of research papers related to fashion content(suggested by APA style for journal)
 
-suggested by APA style for journal
-
-## Journal
+## On-Line data
 
 ### image data base
 
@@ -21,11 +19,37 @@ suggested by APA style for journal
 ### text data base
 
 - [written in Korean]Lee, Y. J., Seo, J. H., & Choi, J. T. (2014). Fashion trend marketing prediction analysis based on opinion mining applying SNS text contents. Journal of KIIT, 12(12), 163-170.
+- Wang, H. J., & Horng, S. C. (2016). Exploring green brand associations through a network analysis approach. Psychology & Marketing, 33(1), 20-35.
 
 
-### survey data base
+### number data base
 
-## cool source
+## Survey data base
+
+### relationship analysis between variables
+
+- Lee, J., & Johnson, K. K. (2009). Factors related to engagement in risky appearance management behaviors. Clothing and Textiles Research Journal, 27(3), 163-178.
+
+
+### comparison of result difference between variables(like A/B test)
+
+- Peluchette, J. V., & Karl, K. (2007). The impact of workplace attire on employee self‐perceptions. Human Resource Development Quarterly, 18(3), 345-360.
+- Ruetzler, T., Taylor, J., Reynolds, D., Baker, W., & Killen, C. (2012). What is professional attire today? A conjoint analysis of personal presentation attributes. International Journal of Hospitality Management, 31(3), 937-943.
+
+#### *IAT(Implicit Association Test)
+
+
+### impression
+
+- Sansoni, S., Wodehouse, A., McFadyen, A., & Buis, A. (2015). The aesthetic appeal of prosthetic limbs and the uncanny valley: The role of personal characteristics in attraction. International Journal of Design, 9(1), 67-81.
+
+
+## Theory
+
+- Fiore, A. M., Kimle, P. A., & Moreno, J. M. (1996). Aesthetics: A comparison of the state of the art outside and inside the field of textiles and clothing part one: Creator and creative process. Clothing and Textiles Research Journal, 14(1), 30-40.
+- Fiore, A. M., Kimle, P. A., & Moreno, J. M. (1996). Aesthetics: A comparison of the state of the art outside and inside the field of textiles and clothing part two: Object. Clothing and Textiles Research Journal, 14(2), 97-107.
+
+## Cool source
 
 - [Open images V4 dataset](https://storage.googleapis.com/openimages/web/index.html)
     - [How to prepare your own customized dataset using Open Images Dataset V4](https://medium.com/@c.n.veeraganesh/how-to-prepare-your-own-customized-dataset-using-open-images-dataset-v4-8dfce9b9e147)
