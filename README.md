@@ -16,6 +16,10 @@ A curated list of research papers related to fashion content(suggested by APA st
 
 - Lee, H., Seol, J., & Lee, S. G. (2017). Style2vec: Representation learning for fashion items from style sets. arXiv preprint arXiv:1708.04014. [pdf](https://arxiv.org/pdf/1708.04014.pdf)
 
+#### creating
+
+- Kim, T., Cha, M., Kim, H., Lee, J. K., & Kim, J. (2017, August). Learning to discover cross-domain relations with generative adversarial networks. In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1857-1865). JMLR. org.[link](https://arxiv.org/pdf/1703.05192.pdf)
+
 ### text data base
 
 - [written in Korean]Lee, Y. J., Seo, J. H., & Choi, J. T. (2014). Fashion trend marketing prediction analysis based on opinion mining applying SNS text contents. Journal of KIIT, 12(12), 163-170.
